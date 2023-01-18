@@ -1,1 +1,1 @@
-Setting up the virtual enviroment.
+Setting up the virtual enviroment and quick intro into web-dev
